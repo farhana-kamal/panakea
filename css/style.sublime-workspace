@@ -1,0 +1,431 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"im",
+				"img-hover"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"co",
+				"container-fluid"
+			],
+			[
+				"burg",
+				"burger-img"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"re",
+				"read-more"
+			],
+			[
+				"TE",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"news",
+				"news-img"
+			],
+			[
+				"img",
+				"img-one"
+			],
+			[
+				"bnr",
+				"bnr-img-sec"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"sty",
+				"list-style"
+			],
+			[
+				"f",
+				"form\tTag"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"new",
+				"news-sec-1"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"he",
+				"Heading"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"st",
+				"strong\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"text",
+				"text-shadow"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"Pass",
+				"password"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"text-",
+				"text-shadow"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"col",
+				"color-rendering"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Farhana/Desktop/raugh/css/style.css",
+		"/C/Users/Farhana/Desktop/raugh/index.html",
+		"/C/Users/Farhana/Downloads/WOW-master/WOW-master/css/libs/animate.css",
+		"/C/Users/Farhana/Desktop/project-1(demo)/index.html",
+		"/C/Users/Farhana/Desktop/project-1(demo)/css/style.css",
+		"/C/Users/Farhana/Desktop/project-1(demo)/indext.html",
+		"/C/Users/Farhana/Desktop/project-1/indext.html",
+		"/C/Users/Farhana/Desktop/project-1/css/style.css",
+		"/C/Users/Farhana/Documents/panakiea/panakiea/index.html",
+		"/C/Users/Farhana/Desktop/project-1(original)/project-1/indext.html",
+		"/C/Users/Farhana/Desktop/Silver Weaves/home/css/style.css",
+		"/C/Users/Farhana/Desktop/Silver Weaves/home/index.html",
+		"/C/Users/Farhana/Desktop/New folder/indext.html",
+		"/C/Users/Farhana/Desktop/New folder/css/style.css",
+		"/J/Panakeia_template-Symu_co.psd",
+		"/F/webdesign class/09-12-17/Panakeia_template-Symu_co.psd",
+		"/C/Users/Farhana/Desktop/pictures/index.html",
+		"/C/Users/Farhana/Desktop/pictures/css/style.css",
+		"/C/Users/Farhana/Desktop/new icon/index.html",
+		"/C/Users/Farhana/Desktop/silver weaves/index.html",
+		"/C/Users/Farhana/Desktop/new icon/css/style.css",
+		"/C/Users/Farhana/Desktop/silver weaves/css/style.css",
+		"/C/Users/Farhana/Desktop/SW/index.html",
+		"/C/Users/Farhana/Desktop/new icon/css/font-awesome.min.css",
+		"/C/Users/Farhana/Desktop/icon/css/style.css",
+		"/C/Users/Farhana/Desktop/icon/index.html",
+		"/C/Users/Farhana/AppData/Local/Temp/Temp1_font-awesome-4.7.0.zip/font-awesome-4.7.0/css/font-awesome.min.css",
+		"/F/webdesign/25-11-17/SW/CSS/style.css",
+		"/F/webdesign/25-11-17/SW/index.html",
+		"/F/webdesign/18-11-17/index.html",
+		"/F/webdesign/25-11-17/index.html",
+		"/C/Users/Farhana/Desktop/SW/CSS/style.css",
+		"/F/webdesign/25-11-17/css/style.css",
+		"/C/Users/Farhana/Desktop/Webdesign/index.html",
+		"/C/Users/Farhana/Desktop/Webdesign/about.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 127.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
